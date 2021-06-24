@@ -1,4 +1,4 @@
-# recuperacaoDolar
+# CotacaoDolar
 Este pequeno projeto consiste em:
 
 1- Abrir o Notepad++
