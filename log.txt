@@ -1,0 +1,4 @@
+Inicio da Execucao: '29/06/2021 14:18'
+Valor minimo: '0,1835'
+Valor maximo: '5,2899'
+Fim da Execucao: '29/06/2021 14:18'
