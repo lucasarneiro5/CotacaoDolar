@@ -40,5 +40,4 @@
 #### OBS:
 Este código ainda não está completo. Faltam :
 
-- Coletar as cotações de forma completa, algumas estão buscando os valores de proporção;
-- Calcular a media do pandas.core.series.Series
+- Melhorar a coleta das cotações de forma completa, algumas estão buscando os valores de proporção devido a um "bug" nas setas do site
