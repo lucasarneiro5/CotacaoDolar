@@ -37,7 +37,7 @@
 
 
 
-*OBS:
+#### OBS:
 Este código ainda não está completo. Faltam :
 
 - Coletar as cotações de forma completa, algumas estão buscando os valores de proporção;
